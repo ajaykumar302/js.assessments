@@ -67,20 +67,20 @@ let studentRecords = [
     this.rollno = student_rollno
     }
     
-    const student1 = new Student('Arpana',1,23);
+    const student1 = new Student('Ajay',1,23);
     console.log(student1);
     
-    const student2 = new Student('Anshu',2,24);
+    const student2 = new Student('Manasa',2,24);
     console.log(student2);
     
-    const student3 = new Student('Bittu',2,25);
+    const student3 = new Student('Prakesh',2,25);
     console.log(student3);
     
-    const student4 = new Student('Anjana',3,26);
+    const student4 = new Student('Ravish',3,26);
     console.log(student4);
     
-    const student5 = new Student('Onu',1,20);
+    const student5 = new Student('Sairam',1,20);
     console.log(student5);
     
-    const student6 = new Student('kashyap',1,19);
+    const student6 = new Student('cherry',1,19);
     console.log(student6);
